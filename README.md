@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am ThaMessia, an italian developer which loves C-like languages.
+I am ThaMessia, an italian developer reverse-engineer which loves C-like languages.
 
-Currently I am learning HolyC.
+Currently I am learning HolyC and Assembly.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaMessia)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaMessia&show_icons=true&theme=radical)
