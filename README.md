@@ -2,7 +2,7 @@
 
 I am ThaMessia, an italian developer reverse-engineer which loves C-like languages.
 
-I am currently learning C++ & Discord's Protocol
+I am currently learning C & Minecraft's Protocol
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaMessia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaMessia)](https://github.com/anuraghazra/github-readme-stats)
