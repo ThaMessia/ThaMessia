@@ -1,24 +1,14 @@
 ### Hi there 👋
 
-I am ThaMessia, an italian developer reverse-engineer which loves C-like languages.
+I am ThaMessia, a young italian developer that is obsessed with philosophy and Minecraft.
 
-I am currently learning C & Minecraft's Protocol
+- 🔭 I’m currently working on DivineBooter
+- 🌱 I’m currently learning Minecraft's Protocol
+- 💬 Ask me who is the best programmer who ever lived and I'll shock you!
+- 📫 How to reach me: ThaMessia#8849 (discord)
+- 😄 Pronouns: I am, you are, she/he/it is, we are, you are, they are.
+- 🔥 Favorite programming languages (from the best to the less favourite): HolyC, Java, C++, C, SoulC, Assembly.
+- ⚡ Fun fact: I started programming because I wanted to learn hacking but then made hacking possible with programming! 😂
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaMessia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaMessia)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**ThaMessia/ThaMessia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
