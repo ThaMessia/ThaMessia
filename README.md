@@ -3,12 +3,12 @@ continue my projects for fun like DivineBooter, but I won't be as active as I wa
 italian programming communities' mind (because I was one of the most hated people in the italian communities) and the fact that the hate
 is continuing to exist even over Italy makes me somehow sad. I want to say thanks to many people who helped me in this journey:
 
-LoRy24, that introduced me to Minecraft protocol and Java's basics
-GaMMy55_, my favourite pupil that motivated me to learn in order to teach
-Clo568_, that gave me motivation in order to continue DivineBooter (yes I have my ways to impress girls)
-GaKer, that helped me find bugs in my old programming language SoulC
-stratosamu, my dear brother who taught me a lot of things and made this journey possible
-Alberto Olla, a guy that helped me having fun while watching at his weird and seductive JavaScript tutorials.
+LoRy24, that introduced me to Minecraft protocol and Java's basics. 
+GaMMy55_, my favourite pupil that motivated me to learn in order to teach. 
+Clo568_, that gave me motivation in order to continue DivineBooter (yes I have my ways to impress girls). 
+GaKer, that helped me find bugs in my old programming language SoulC. 
+stratosamu, my dear brother who taught me a lot of things and made this journey possible. 
+Alberto Olla, a guy that helped me having fun while watching at his weird and seductive JavaScript tutorials. 
 
 Thank you guys for what you gave me. See you in heaven. (don't think I've commited *that* thing lol, it's just that I won't see some people anymore so yeah)
 
